@@ -1,4 +1,4 @@
-# KPCB Fellowship, Engineering Challenge 2019
+# Blackjack
 A Python implementation of the game Blackjack. It's rules can be found here: https://www.blackjack.org/blackjack-rules/
 
 Note - For simplicity, only Hit, Stand, Double Down, Surrender and Split have been implemented as possible actions. 
